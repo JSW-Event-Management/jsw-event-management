@@ -946,7 +946,7 @@ section {
 }
 
 .portfolio-details .portfolio-description {
-  padding-top: 30px;
+  padding-top: 5px;
 }
 
 .portfolio-details .portfolio-description h2 {
@@ -1510,7 +1510,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #f5f8fd;
+  background: #202627;
 }
 
 #footer .footer-top .footer-info {
@@ -1518,7 +1518,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 34px;
+  font-size: 30px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
